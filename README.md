@@ -5,7 +5,7 @@ Syal, S. M., and MacDonald, E. F., 2020, "Quantifying the Importance of Solar So
 
 # Model Overview
 The model consists of three main python files:
-1. main_costmocel_tornadoanalysis.py - this file is the main file to run the analysis and calls the other two python files.
+1. main_costmodel_tornadoanalysis.py - this file is the main file to run the analysis and calls the other two python files.
 2. mainfunctions.py - this file contains the functions used to do the major calculations used in the main file
 3. cashflow.py - this file contains supporting calculations used in both the main file and mainfunctions file
 
